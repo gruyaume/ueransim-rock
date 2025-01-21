@@ -12,6 +12,9 @@ license: GPL-3.0
 platforms:
     amd64:
 
+environment:
+    LD_LIBRARY_PATH: "/usr/lib/x86_64-linux-gnu:/usr/local/lib"
+
 parts:
   ueransim:
     source: "https://github.com/aligungr/UERANSIM.git"
