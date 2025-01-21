@@ -27,6 +27,7 @@ parts:
       - make
     stage-packages:
       - libsctp1
+      - ethtool
     override-build: |
       make
       mkdir -p $CRAFT_PART_INSTALL/usr/bin
