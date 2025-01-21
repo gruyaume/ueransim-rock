@@ -1,4 +1,4 @@
-name: ueransim-rock
+name: ueransim
 base: ubuntu@24.04
 version: '3.2.6'
 summary: Open source 5G UE and RAN (gNodeB) implementation.
