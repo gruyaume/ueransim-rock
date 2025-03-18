@@ -7,6 +7,6 @@ This container image contains the official UERANSIM binary.
 ## Usage
 
 ```shell
-docker pull ghcr.io/gruyaume/ueransim:3.2.6
-docker run -it ghcr.io/gruyaume/ueransim:3.2.6
+docker pull ghcr.io/gruyaume/ueransim:3.2.7
+docker run -it ghcr.io/gruyaume/ueransim:3.2.7
 ```
